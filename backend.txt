@@ -1,0 +1,4 @@
+joshuak6k
+w0WZGvdv7fVI9QUt
+
+mongodb+srv://joshuak6k:w0WZGvdv7fVI9QUt@cluster0.0wj0pg6.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
